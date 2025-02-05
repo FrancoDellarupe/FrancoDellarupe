@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Franco Dellarupe 👋</h1>
 
-<!--
-**FrancoDellarupe/FrancoDellarupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm an enthusiastic student whit the drive of building life-changing proyects for the common people and for the people that's involved in them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Expertise
+
+- Programming Languages: Java, Python, Rust, JavaScrypt, HTML, PHP
+- Web Development: Currently learning and exploring
+- Soft Skills: Excellent communication, collaboration, and public speaking
+
+### 💡 Interests
+
+I'm deeply interested in:
+
+- Building real-life projects that solve meaningful problems.
+- Explore the world of automated tasks for solving recurrent problems.
+
+### Let's Connect
+
+<p align="center">
+  You can find me on:
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ujjwalsharma01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/sharma_ujjwal01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
+  </a>
+</p>
+
+### Other Profiles
+
+<p align="center">
+  <a href="https://www.codechef.com/users/ujjwalsharma01">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/ujjwalsharma01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/sharma_ujjwal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/sharma_ujjwal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sharma_ujjwal/profile">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
+  </a>
+</p>
+
+Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma01&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsharma01&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
