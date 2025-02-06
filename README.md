@@ -1,64 +1,55 @@
-<h1 align="center">Hi there! I'm Franco Dellarupe 👋</h1>
+<h1 align="center">Hola, soy Franco👋</h1>
+<h4 align="center">Soy Franco Dellarupe, estudiante de "Analista Programador Universitario" y "Licenciatura en Sistemas" en la UNLP. </h4>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
+- 🌱 En este momento estoy aprendiendo y perfeccionando el **Desarrollo web**
+
+- ✉️ Email de contacto **fran.dellarupe03@gmail.com**
+
+  </div>
+
+<h3>Me podes encontrar en:</h3>
+<p align="left">
+<a href="https://www.instagram.com/franco.dellarupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agusnfr" height="30" width="40" /></a>
 </p>
 
-Welcome to my GitHub profile! I'm an enthusiastic student whit the drive of building life-changing proyects for the common people and for the people that's involved in them.
+<h3 align="left">Lenguajes y Herramientas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🚀 Expertise
+<h2 align="center">Github Stats :bar_chart:</h2>
 
-- Programming Languages: Java, Python, Rust, JavaScrypt, HTML, PHP
-- Web Development: Currently learning and exploring
-- Soft Skills: Excellent communication, collaboration, and public speaking
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoDellarupe&langs_count=10&theme=dark&layout=compact" alt="agusrnfr :: Top Lenguajes" /></p>
 
-### 💡 Interests
+<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=FrancoDellarupe&show_icons=true&theme=dark" alt="agusrnfr :: Profile Stats" /></p>
 
-I'm deeply interested in:
+<h2 align="center">Facultad</h2>
 
-- Building real-life projects that solve meaningful problems.
-- Explore the world of automated tasks for solving recurrent problems.
-
-### Let's Connect
-
-<p align="center">
-  You can find me on:
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ujjwalsharma01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sharma_ujjwal01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
-  </a>
-</p>
-
-### Other Profiles
-
-<p align="center">
-  <a href="https://www.codechef.com/users/ujjwalsharma01">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/ujjwalsharma01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/sharma_ujjwal">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/sharma_ujjwal">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/sharma_ujjwal/profile">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
-  </a>
-</p>
-
-Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma01&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsharma01&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+<div align="center">
+    <h3>Tercer Año</h3>
+      <a href="https://github.com/FrancoDellarupe/Mate3">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=Mate3&theme=dark" />
+      </a>
+      <a href="https://github.com/FrancoDellarupe/CPLP">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=CPLP&theme=dark" />
+      </a>
+      <a href="https://github.com/FrancoDellarupe/OO2">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=OO2&theme=dark" />
+      </a>
+      <a href="https://github.com/FrancoDellarupe/IS2">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=IS2&theme=dark" />
+      </a>
+      <a href="https://github.com/FrancoDellarupe/RyC">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=RyC&theme=dark" />
+      </a>
+      <a href="https://github.com/FrancoDellarupe/Prog.-Concurrente">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=Prog.-Concurrente&theme=dark" />
+      </a>
+      <a href="https://github.com/FrancoDellarupe/BD1">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=BD1&theme=dark" />
+      </a>
+      <a href="https://github.com/FrancoDellarupe/TTPS---JAVA">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=TTPS---JAVA&theme=dark" />
+      </a>
+      <a href="https://github.com/FrancoDellarupe/Proyecto-de-Software">
+        <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=Proyecto-de-Software&theme=dark" />
+      </a>
+ </div>
