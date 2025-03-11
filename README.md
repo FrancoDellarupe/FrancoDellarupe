@@ -66,3 +66,11 @@
         <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=Proyecto-de-Software&theme=dark" />
       </a>
  </div>
+ 
+<h2 align="center">Proyectos 📝</h2>
+<div>
+  <h3>TruequeTools</h3>
+    <a href="https://github.com/Pedro0604/trueque-tools">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro0604&repo=trueque-tools&theme=dark" />
+    </a>
+</div>
