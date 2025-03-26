@@ -69,7 +69,18 @@
 
  <div align="center">
     <h3>Cuarto Año</h3>
-   
+    <a href="https://github.com/FrancoDellarupe/IS3">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=IS3&theme=dark" />
+    </a>
+    <a href="https://github.com/FrancoDellarupe/SO">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=SO&theme=dark" />
+    </a>
+    <a href="https://github.com/FrancoDellarupe/BD2">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=BD2&theme=dark" />
+    </a>
+    <a href="https://github.com/FrancoDellarupe/FTC">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=FTC&theme=dark" />
+    </a>
  </div>
  
 <h2 align="center">Proyectos 📝</h2>
