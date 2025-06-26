@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Franco👋</h1>
-<h4 align="center">Soy Franco Dellarupe, estudiante de "Analista Programador Universitario" y "Licenciatura en Sistemas" en la UNLP. </h4>
+<h4 align="center">Soy Franco Dellarupe, soy Analista Programador Universitario y estudiante de Licenciatura en Sistemas en la UNLP. </h4>
 
-- 🌱 En este momento estoy aprendiendo y perfeccionando el **Desarrollo web**
+- 🌱 En este momento estoy aprendiendo y perfeccionando el **Desarrollo web** y las automatizaciones con **IA**
 
 - ✉️ Email de contacto **fran.dellarupe03@gmail.com**
 
