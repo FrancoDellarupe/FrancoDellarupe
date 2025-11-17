@@ -81,6 +81,9 @@
     <a href="https://github.com/FrancoDellarupe/FTC">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=FTC&theme=dark" />
     </a>
+   <a href="https://github.com/FrancoDellarupe/CyABD">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=CyABD&theme=dark" />
+    </a>
  </div>
  
 <h2 align="center">Proyectos 📝</h2>
