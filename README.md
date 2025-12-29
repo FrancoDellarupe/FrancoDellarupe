@@ -84,6 +84,15 @@
    <a href="https://github.com/FrancoDellarupe/CyABD">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=CyABD&theme=dark" />
     </a>
+   <a href="https://github.com/FrancoDellarupe/MATE-4">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=MATE-4&theme=dark" />
+    </a>
+   <a href="https://github.com/FrancoDellarupe/DSSD">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=DSSD&theme=dark" />
+    </a>
+   <a href="https://github.com/FrancoDellarupe/SyO">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoDellarupe&repo=SyO&theme=dark" />
+    </a>
  </div>
  
 <h2 align="center">Proyectos 📝</h2>
