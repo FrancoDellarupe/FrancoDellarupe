@@ -28,12 +28,6 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
 </p>
 
-<h2 align="center">Github Stats :bar_chart:</h2>
-
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoDellarupe&langs_count=10&theme=dark&layout=compact" alt="agusrnfr :: Top Lenguajes" /></p>
-
-<p align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=FrancoDellarupe&show_icons=true&theme=dark" alt="agusrnfr :: Profile Stats" /></p>
-
 <h2 align="center">Facultad 📝</h2>
 
 <div align="center">
